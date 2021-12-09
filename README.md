@@ -9,13 +9,6 @@ This application was developed using Angular Technology for the front end as a t
           Routing
           Observable objects
           
-The backend data is hardcoded at the moment.
-The sample data was obtained using the Google Books API:  https://developers.google.com/books/docs/v1/using
-In order to get a sample book set, I queried the API passing in a generated API Key as well as the keywork "twins":
-![image](https://user-images.githubusercontent.com/18742286/145470326-dba1f0f7-5d7a-4344-9030-b93b6ba001cb.png)
-
-In the future, I plan on retrieving the data directly from the API to be displayed on the portal
- 
 
 ## Development server
 
@@ -55,5 +48,12 @@ Filter Functionality:
 ![image](https://user-images.githubusercontent.com/18742286/145471330-c4dda820-f749-442c-8390-35f665e5de20.png)
 
 
+## Tech Debt
 
+The backend data is hardcoded at the moment.
+The sample data was obtained using the Google Books API:  https://developers.google.com/books/docs/v1/using
+In order to get a sample book set, I queried the API passing in a generated API Key as well as the keywork "twins":
+![image](https://user-images.githubusercontent.com/18742286/145470326-dba1f0f7-5d7a-4344-9030-b93b6ba001cb.png)
+
+In the future, I plan on retrieving the data directly from the API to be displayed on the portal
 
