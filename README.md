@@ -1,11 +1,18 @@
 # Twin Book Guide
 
+This application was inspired by the author herself being currently pregnant with Twin Boys!
+As an initiative to be exposed to Angular front-end development, I took a pluralsight course "Angular: Getting Started" to take me on a journey to develop an application that lets you search for books to learn more about twins :)
+
+
+## Tech Stack
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
 This application was developed using Angular Technology for the front end as a training excercise. The concepts learned include:
 
 Built-in Directives (i.e. 'ngIf', 'ngFor'), Two-way data binding, Angular Dependency Injector, Routing, Observable objects
-          
+
+The backend data is hardcoded at the moment.
+      
 
 ## Development server
 
