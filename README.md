@@ -51,6 +51,8 @@ http://localhost:4200/welcome
 http://localhost:4200/products
 ![image](https://user-images.githubusercontent.com/18742286/145471124-43496de8-f1d5-4b4d-92e5-3d5a780070d2.png)
 
+Filter Functionality:
+![image](https://user-images.githubusercontent.com/18742286/145471330-c4dda820-f749-442c-8390-35f665e5de20.png)
 
 
 
