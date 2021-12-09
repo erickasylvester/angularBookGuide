@@ -16,5 +16,5 @@ import { Component } from "@angular/core";
 })
 
 export class AppComponent {
-  pageTitle: string = "Sylvester Twins Book Management"
+  pageTitle: string = "Twin Book Guide"
 }

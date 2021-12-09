@@ -1,0 +1,840 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2840,
+  "items": [
+      {
+          "kind": "books#volume",
+          "id": "u1fpywEACAAJ",
+          "etag": "k33ziRzWN+o",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/u1fpywEACAAJ",
+          "volumeInfo": {
+              "title": "Twins (Twins #1)",
+              "authors": [
+                  "Varian Johnson"
+              ],
+              "publisher": "Graphix",
+              "publishedDate": "2020-10-06",
+              "description": "Coretta Scott King Honor author Varian Johnson teams up with rising cartoonist Shannon Wright for a delightful middle-grade graphic novel! Maureen and Francine Carter are twins and best friends. They participate in the same clubs, enjoy the same foods, and are partners on all their school projects. But just before the girls start sixth grade, Francine becomes Fran -- a girl who wants to join the chorus, run for class president, and dress in fashionable outfits that set her apart from Maureen. A girl who seems happy to share only two classes with her sister! Maureen and Francine are growing apart and there's nothing Maureen can do to stop it. Are sisters really forever? Or will middle school change things for good?",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1338236172"
+                  },
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781338236170"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": false
+              },
+              "pageCount": 256,
+              "printType": "BOOK",
+              "categories": [
+                  "Juvenile Fiction"
+              ],
+              "averageRating": 5,
+              "ratingsCount": 1,
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "preview-1.0.0",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=u1fpywEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=u1fpywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=u1fpywEACAAJ&dq=twins&hl=&cd=1&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=u1fpywEACAAJ&dq=twins&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/Twins_Twins_1.html?hl=&id=u1fpywEACAAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "NO_PAGES",
+              "embeddable": false,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=u1fpywEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "NONE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "Coretta Scott King Honor author Varian Johnson teams up with rising cartoonist Shannon Wright for a delightful middle-grade graphic novel Maureen and Francine Carter are twins and best friends."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "IPopPwAACAAJ",
+          "etag": "oe77FYWnaOQ",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/IPopPwAACAAJ",
+          "volumeInfo": {
+              "title": "The Twins, This and That",
+              "authors": [
+                  "Laura Appleton-Smith"
+              ],
+              "publisher": "Books To Remember",
+              "publishedDate": "2003-01-01",
+              "description": "Synopsis: THIS and THAT are twin rats that pester and bother THIcK and THIN, the Smith family's twin cats.The two mischievous sets of twins engage in a delightful rollick.Target Letter-Sound Correspondences: Digraph /th/ sound spelled th; Digraph /hw/ soundspelled wh.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1929262167"
+                  },
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781929262168"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": false
+              },
+              "pageCount": 27,
+              "printType": "BOOK",
+              "categories": [
+                  "Cats"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "preview-1.0.0",
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=IPopPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=IPopPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=IPopPwAACAAJ&dq=twins&hl=&cd=2&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=IPopPwAACAAJ&dq=twins&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/The_Twins_This_and_That.html?hl=&id=IPopPwAACAAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "NO_PAGES",
+              "embeddable": false,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=IPopPwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "NONE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "Synopsis: THIS and THAT are twin rats that pester and bother THIcK and THIN, the Smith family&#39;s twin cats.The two mischievous sets of twins engage in a delightful rollick.Target Letter-Sound Correspondences: Digraph /th/ sound spelled th; ..."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "LS2iDwAAQBAJ",
+          "etag": "fsnyhUVzri8",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/LS2iDwAAQBAJ",
+          "volumeInfo": {
+              "title": "Twins",
+              "subtitle": "A Picture Book",
+              "authors": [
+                  "Mike Ciccotello"
+              ],
+              "publisher": "Farrar, Straus and Giroux (BYR)",
+              "publishedDate": "2019-08-27",
+              "description": "A heartwarming and clever picture book from debut author-illustrator Mike Ciccotello, who is the father of fraternal Twins. Being a twin is great! Sometimes our friends can’t tell us apart. A boy and his twin do everything together—leapfrog and piggyback rides, dancing and disagreeing, and everything in between! Their relationship has its ups and downs, but in the end, it’s great knowing there’s someone in their world who is just like them. This charming picture book is a sweet and silly celebration of twinhood—whether you look alike or not!",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781466899780"
+                  },
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1466899786"
+                  }
+              ],
+              "readingModes": {
+                  "text": true,
+                  "image": true
+              },
+              "pageCount": 32,
+              "printType": "BOOK",
+              "categories": [
+                  "Juvenile Fiction"
+              ],
+              "averageRating": 3,
+              "ratingsCount": 1,
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "1.2.2.0.preview.3",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=LS2iDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=LS2iDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=LS2iDwAAQBAJ&printsec=frontcover&dq=twins&hl=&cd=3&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=LS2iDwAAQBAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LS2iDwAAQBAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "FOR_SALE",
+              "isEbook": true,
+              "listPrice": {
+                  "amount": 10.99,
+                  "currencyCode": "USD"
+              },
+              "retailPrice": {
+                  "amount": 10.99,
+                  "currencyCode": "USD"
+              },
+              "buyLink": "https://play.google.com/store/books/details?id=LS2iDwAAQBAJ&rdid=book-LS2iDwAAQBAJ&rdot=1&source=gbs_api",
+              "offers": [
+                  {
+                      "finskyOfferType": 1,
+                      "listPrice": {
+                          "amountInMicros": 10990000,
+                          "currencyCode": "USD"
+                      },
+                      "retailPrice": {
+                          "amountInMicros": 10990000,
+                          "currencyCode": "USD"
+                      },
+                      "giftable": true
+                  }
+              ]
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/Twins-sample-epub.acsm?id=LS2iDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "pdf": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/Twins-sample-pdf.acsm?id=LS2iDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=LS2iDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "Their relationship has its ups and downs, but in the end, it’s great knowing there’s someone in their world who is just like them. This charming picture book is a sweet and silly celebration of twinhood—whether you look alike or not!"
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "6uj2ygAACAAJ",
+          "etag": "FFOiGhdBzGg",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/6uj2ygAACAAJ",
+          "volumeInfo": {
+              "title": "Playtime for Twins",
+              "authors": [
+                  "Ellen Weiss"
+              ],
+              "publisher": "Little Simon",
+              "publishedDate": "2012-06-12",
+              "description": "A charming set of twins make the most of their imaginations in this board book companion to Bathtime for Twins. Hooray! We love to play! What will we do today? The twins are ready for some fun! Laugh along as these cheerful siblings make some noise, read about rocket ships, seesaw, and more before they wave good-bye to the sun as it sets and head for home. Pitch-perfect rhyming text from author Ellen Weiss and soft, engaging images from bestselling illustrator Sam Williams showcase the twins’ appealing personalities and capture all the joy of playtime!",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1442430273"
+                  },
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781442430273"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": false
+              },
+              "pageCount": 30,
+              "printType": "BOOK",
+              "categories": [
+                  "Juvenile Fiction"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "preview-1.0.0",
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=6uj2ygAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=6uj2ygAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=6uj2ygAACAAJ&dq=twins&hl=&cd=4&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=6uj2ygAACAAJ&dq=twins&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/Playtime_for_Twins.html?hl=&id=6uj2ygAACAAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "NO_PAGES",
+              "embeddable": false,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=6uj2ygAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "NONE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "A charming set of twins make the most of their imaginations in this board book companion to Bathtime for Twins."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "Jk7IygAACAAJ",
+          "etag": "mHp+X1BYWN0",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/Jk7IygAACAAJ",
+          "volumeInfo": {
+              "title": "Bathtime for Twins",
+              "authors": [
+                  "Ellen Weiss"
+              ],
+              "publisher": "Little Simon",
+              "publishedDate": "2012-06-12",
+              "description": "Bathtime fun, times two! An adorable duo heads for the tub in this board book companion to Playtime for Twins. Splashy, sploshy, splish. We are little fish! A delightful set of twins show what a blast bathtime can be in this playful board book. Expect grins and giggles from little ones as these funny siblings splash, have tea, play peek-a-boo, and more, until it’s time to say “good night.” Bubbly, rhyming text from Ellen Weiss and soft, charming illustrations by Sam Williams bring this playful story to life.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1442430265"
+                  },
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781442430266"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": false
+              },
+              "pageCount": 30,
+              "printType": "BOOK",
+              "categories": [
+                  "Juvenile Fiction"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "preview-1.0.0",
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=Jk7IygAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=Jk7IygAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=Jk7IygAACAAJ&dq=twins&hl=&cd=5&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=Jk7IygAACAAJ&dq=twins&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/Bathtime_for_Twins.html?hl=&id=Jk7IygAACAAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "NO_PAGES",
+              "embeddable": false,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=Jk7IygAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "NONE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "An adorable duo heads for the tub in this board book companion to Playtime for Twins. Splashy, sploshy, splish. We are little fish! A delightful set of twins show what a blast bathtime can be in this playful board book."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "LnCN_eYkH1YC",
+          "etag": "lU5yZeQ1jOM",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/LnCN_eYkH1YC",
+          "volumeInfo": {
+              "title": "Not All Twins are Alike",
+              "subtitle": "Psychological Profiles of Twinship",
+              "authors": [
+                  "Barbara Schave Klein"
+              ],
+              "publisher": "Greenwood Publishing Group",
+              "publishedDate": "2003",
+              "description": "Even twins are unique. Most people idealize twins, fantasizing a close, perpetually loving relationship. Yet Klein, herself an identical twin, demonstrates that twins have complicated and intense relationships that range from over-identification or excessive closeness to profound estrangement and conflict. This book is a must-read for twins, their parents, and scholars, students, and other researchers and professionals dealing with mental health and child development.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "0275975843"
+                  },
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9780275975845"
+                  }
+              ],
+              "readingModes": {
+                  "text": true,
+                  "image": true
+              },
+              "pageCount": 133,
+              "printType": "BOOK",
+              "categories": [
+                  "Psychology"
+              ],
+              "averageRating": 5,
+              "ratingsCount": 1,
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "2.1.5.0.preview.3",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=LnCN_eYkH1YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=LnCN_eYkH1YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=LnCN_eYkH1YC&pg=PA9&dq=twins&hl=&cd=6&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=LnCN_eYkH1YC&source=gbs_api",
+              "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LnCN_eYkH1YC"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "FOR_SALE",
+              "isEbook": true,
+              "listPrice": {
+                  "amount": 55,
+                  "currencyCode": "USD"
+              },
+              "retailPrice": {
+                  "amount": 42.35,
+                  "currencyCode": "USD"
+              },
+              "buyLink": "https://play.google.com/store/books/details?id=LnCN_eYkH1YC&rdid=book-LnCN_eYkH1YC&rdot=1&source=gbs_api",
+              "offers": [
+                  {
+                      "finskyOfferType": 1,
+                      "listPrice": {
+                          "amountInMicros": 55000000,
+                          "currencyCode": "USD"
+                      },
+                      "retailPrice": {
+                          "amountInMicros": 42350000,
+                          "currencyCode": "USD"
+                      },
+                      "giftable": true
+                  }
+              ]
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/Not_All_Twins_are_Alike-sample-epub.acsm?id=LnCN_eYkH1YC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "pdf": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/Not_All_Twins_are_Alike-sample-pdf.acsm?id=LnCN_eYkH1YC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=LnCN_eYkH1YC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "The resolution of these identity issues related to identity confusion are based on the quality of parenting that <b>twins</b> receive . How do parents deal with onlookers asking , &quot; Are they <b>twins</b> ? &quot; How do parents separate their <b>twins</b> and&nbsp;..."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "vlZEsm7mcgcC",
+          "etag": "mHh6BDsg4VQ",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/vlZEsm7mcgcC",
+          "volumeInfo": {
+              "title": "Twins 101",
+              "subtitle": "50 Must-Have Tips for Pregnancy through Early Childhood From Doctor M.O.M.",
+              "authors": [
+                  "Khanh-Van Le-Bucklin"
+              ],
+              "publisher": "John Wiley & Sons",
+              "publishedDate": "2008-10-27",
+              "description": "\"A must-read for expectant or multitasking mothers of multiples by an academic pediatrician and mother of twins, Twins 101 provides practical tips and wise words in a readable style that fits into the fast pace of these mothers’ lives.\" —Theodore Sectish, MD, associate professor of pediatrics, Harvard Medical School; program director, Children’s Hospital Boston Dr. Le-Bucklin's new parenting book is the first by a pediatrician who is also a mother of twins. No other pregnancy and parenting book for multiples offers this unique and much-needed perspective. Twins 101 features practical advice and well-researched information in an easy-to-read format. From maintaining a healthy twin pregnancy to meeting the daily challenge of caring for twins, Twin 101 guides families through each stage with insightful tips, practical advice, useful resources, and inspirational stories.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "0470343680"
+                  },
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9780470343685"
+                  }
+              ],
+              "readingModes": {
+                  "text": true,
+                  "image": true
+              },
+              "pageCount": 208,
+              "printType": "BOOK",
+              "categories": [
+                  "Family & Relationships"
+              ],
+              "averageRating": 4,
+              "ratingsCount": 4,
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": true,
+              "contentVersion": "1.6.4.0.preview.3",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=vlZEsm7mcgcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=vlZEsm7mcgcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=vlZEsm7mcgcC&printsec=frontcover&dq=twins&hl=&cd=7&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=vlZEsm7mcgcC&dq=twins&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/Twins_101.html?hl=&id=vlZEsm7mcgcC"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/Twins_101-sample-epub.acsm?id=vlZEsm7mcgcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "pdf": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/Twins_101-sample-pdf.acsm?id=vlZEsm7mcgcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=vlZEsm7mcgcC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "&quot;A must-read for expectant or multitasking mothers of multiples by an academic pediatrician and mother of twins, Twins 101 provides practical tips and wise words in a readable style that fits into the fast pace of these mothers’ lives.&quot; ..."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "euaPoAEACAAJ",
+          "etag": "+bwV+5fUCpI",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/euaPoAEACAAJ",
+          "volumeInfo": {
+              "title": "Twins",
+              "subtitle": "And What They Tell Us about Who We Are",
+              "authors": [
+                  "Lawrence Wright"
+              ],
+              "publisher": "Turner Publishing Company",
+              "publishedDate": "1999-02-01",
+              "description": "An award-winning writer for The New Yorker magazine builds on the latest investigations into the psychology of twins to demonstrate the unparalleled impact of one's genetic inheritance on one's personality, far outweighing one's family life.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1630262455"
+                  },
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781630262457"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": false
+              },
+              "pageCount": 212,
+              "printType": "BOOK",
+              "categories": [
+                  "Psychology"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "preview-1.0.0",
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=euaPoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=euaPoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=euaPoAEACAAJ&dq=twins&hl=&cd=8&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=euaPoAEACAAJ&dq=twins&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/Twins.html?hl=&id=euaPoAEACAAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "NO_PAGES",
+              "embeddable": false,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=euaPoAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "NONE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "An award-winning writer for The New Yorker magazine builds on the latest investigations into the psychology of twins to demonstrate the unparalleled impact of one&#39;s genetic inheritance on one&#39;s personality, far outweighing one&#39;s family life ..."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "VNsREAAAQBAJ",
+          "etag": "O8Segm60CFE",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/VNsREAAAQBAJ",
+          "volumeInfo": {
+              "title": "Vanishing Twins",
+              "subtitle": "A Marriage",
+              "authors": [
+                  "Leah Dieterich"
+              ],
+              "publisher": "Catapult",
+              "publishedDate": "2018-09-04",
+              "description": "\"[Dieterich's] writing is crisp and intelligent . . . She writes about her own reckoning with her sexuality and exploration of queer identity without becoming pat or coy, giving readers intimate access to her fears and conflicting emotions.\" --NPR For as long as she can remember, Leah has had the mysterious feeling that she’s been searching for a twin--that she should be part of an intimate pair. It begins with dance partners as she studies ballet growing up; continues with her attractions to girlfriends in college; and leads her, finally, to Eric, whom she moves across the country for and marries. But her steadfast, monogamous relationship leaves her with questions about her sexuality and her identity, so she and her husband decide to try an open marriage. How does a young couple make room for their individual desires, their evolving selfhoods, and their artistic ambitions while building a life together? Can they pursue other sexual partners, even live in separate cities, and keep their original passionate bond alive? Vanishing Twins looks for answers in psychology, science, pop culture, art, architecture, Greek mythology, dance, and language to create a lucid, suspenseful portrait of a woman testing the limits and fluidities of love.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781593763060"
+                  },
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1593763069"
+                  }
+              ],
+              "readingModes": {
+                  "text": true,
+                  "image": true
+              },
+              "pageCount": 304,
+              "printType": "BOOK",
+              "categories": [
+                  "Family & Relationships"
+              ],
+              "averageRating": 2,
+              "ratingsCount": 1,
+              "maturityRating": "MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "preview-1.0.0",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=VNsREAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=VNsREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=VNsREAAAQBAJ&pg=PP1&dq=twins&hl=&cd=9&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=VNsREAAAQBAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VNsREAAAQBAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "FOR_SALE",
+              "isEbook": true,
+              "listPrice": {
+                  "amount": 11.99,
+                  "currencyCode": "USD"
+              },
+              "retailPrice": {
+                  "amount": 11.99,
+                  "currencyCode": "USD"
+              },
+              "buyLink": "https://play.google.com/store/books/details?id=VNsREAAAQBAJ&rdid=book-VNsREAAAQBAJ&rdot=1&source=gbs_api",
+              "offers": [
+                  {
+                      "finskyOfferType": 1,
+                      "listPrice": {
+                          "amountInMicros": 11990000,
+                          "currencyCode": "USD"
+                      },
+                      "retailPrice": {
+                          "amountInMicros": 11990000,
+                          "currencyCode": "USD"
+                      },
+                      "giftable": true
+                  }
+              ]
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/Vanishing_Twins-sample-epub.acsm?id=VNsREAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "pdf": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/Vanishing_Twins-sample-pdf.acsm?id=VNsREAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=VNsREAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "Vanishing Twins looks for answers in psychology, science, pop culture, art, architecture, Greek mythology, dance, and language to create a lucid, suspenseful portrait of a woman testing the limits and fluidities of love."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "Uvpr6uKB0WAC",
+          "etag": "wJQFdSHYWTw",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/Uvpr6uKB0WAC",
+          "volumeInfo": {
+              "title": "The Templeton Twins Have an Idea",
+              "subtitle": "Book One",
+              "authors": [
+                  "Ellis Weiner"
+              ],
+              "publisher": "Chronicle Books",
+              "publishedDate": "2012-08-03",
+              "description": "This special edition of The Templeton Twins Have an Idea: Book One also includes a sneak preview of The Templeton Twins Make a Scene: Book Two and a Q&A with the author. Suppose there were 12-year-old twins, a boy and girl named John and Abigail Templeton. Let's say John was pragmatic and played the drums, and Abigail was theoretical and solved cryptic crosswords. Now suppose their father was a brilliant, if sometimes confused, inventor. And suppose that another set of twins—adults—named Dean D. Dean and Dan D. Dean, kidnapped the Templeton twins and their ridiculous dog in order to get their father to turn over one of his genius (sort of) inventions. Yes, I said kidnapped. Wouldn't it be fun to read about that? Oh please. It would so. Luckily for you, this is just the first in a series perfect for boys and girls who are smart, clever, and funny (just like the twins), and enjoy reading adventurous stories (who doesn't?!).",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781452120201"
+                  },
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "145212020X"
+                  }
+              ],
+              "readingModes": {
+                  "text": true,
+                  "image": true
+              },
+              "pageCount": 232,
+              "printType": "BOOK",
+              "categories": [
+                  "Juvenile Fiction"
+              ],
+              "averageRating": 3.5,
+              "ratingsCount": 22,
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": true,
+              "contentVersion": "1.9.12.0.preview.3",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=Uvpr6uKB0WAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=Uvpr6uKB0WAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=Uvpr6uKB0WAC&printsec=frontcover&dq=twins&hl=&cd=10&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=Uvpr6uKB0WAC&source=gbs_api",
+              "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Uvpr6uKB0WAC"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "FOR_SALE",
+              "isEbook": true,
+              "listPrice": {
+                  "amount": 4.99,
+                  "currencyCode": "USD"
+              },
+              "retailPrice": {
+                  "amount": 4.99,
+                  "currencyCode": "USD"
+              },
+              "buyLink": "https://play.google.com/store/books/details?id=Uvpr6uKB0WAC&rdid=book-Uvpr6uKB0WAC&rdot=1&source=gbs_api",
+              "offers": [
+                  {
+                      "finskyOfferType": 1,
+                      "listPrice": {
+                          "amountInMicros": 4990000,
+                          "currencyCode": "USD"
+                      },
+                      "retailPrice": {
+                          "amountInMicros": 4990000,
+                          "currencyCode": "USD"
+                      },
+                      "giftable": true
+                  }
+              ]
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/The_Templeton_Twins_Have_an_Idea-sample-epub.acsm?id=Uvpr6uKB0WAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "pdf": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/The_Templeton_Twins_Have_an_Idea-sample-pdf.acsm?id=Uvpr6uKB0WAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=Uvpr6uKB0WAC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "This special edition of The Templeton Twins Have an Idea: Book One also includes a sneak preview of The Templeton Twins Make a Scene: Book Two and a Q&amp;A with the author."
+          }
+      }
+  ]
+}

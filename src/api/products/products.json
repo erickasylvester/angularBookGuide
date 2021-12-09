@@ -1,52 +1,52 @@
 [
   {
     "productId": 1,
-    "productName": "Leaf Rake",
-    "productCode": "GDN-0011",
-    "releaseDate": "March 19, 2021",
-    "description": "Leaf rake with 48-inch wooden handle.",
-    "price": 19.95,
-    "starRating": 3.2,
-    "imageUrl": "assets/images/leaf_rake.png"
+    "productName": "Twins (Twins #1)",
+    "productCode": "u1fpywEACAAJ",
+    "releaseDate": "2020-10-06",
+    "description": "Coretta Scott King Honor author Varian Johnson teams up with rising cartoonist Shannon Wright for a delightful middle-grade graphic novel! Maureen and Francine Carter are twins and best friends. They participate in the same clubs, enjoy the same foods, and are partners on all their school projects. But just before the girls start sixth grade, Francine becomes Fran -- a girl who wants to join the chorus, run for class president, and dress in fashionable outfits that set her apart from Maureen. A girl who seems happy to share only two classes with her sister! Maureen and Francine are growing apart and there's nothing Maureen can do to stop it. Are sisters really forever? Or will middle school change things for good?",
+    "price": 10.99,
+    "starRating": 5,
+    "imageUrl": "http://books.google.com/books/content?id=u1fpywEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "productId": 2,
-    "productName": "Garden Cart",
-    "productCode": "GDN-0023",
-    "releaseDate": "March 18, 2021",
-    "description": "15 gallon capacity rolling garden cart",
-    "price": 32.99,
-    "starRating": 4.2,
-    "imageUrl": "assets/images/garden_cart.png"
+    "productName": "The Twins, This and That",
+    "productCode": "IPopPwAACAAJ",
+    "releaseDate": "2003-01-01",
+    "description": "Synopsis: THIS and THAT are twin rats that pester and bother THIcK and THIN, the Smith family's twin cats.The two mischievous sets of twins engage in a delightful rollick.Target Letter-Sound Correspondences: Digraph /th/ sound spelled th; Digraph /hw/ soundspelled wh.",
+    "price": 12.99,
+    "starRating": 3.2,
+    "imageUrl": "http://books.google.com/books/content?id=IPopPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "productId": 5,
-    "productName": "Hammer",
-    "productCode": "TBX-0048",
-    "releaseDate": "May 21, 2021",
-    "description": "Curved claw steel hammer",
+    "productName": "Twins - A Picture Book",
+    "productCode": "LS2iDwAAQBAJ",
+    "releaseDate": "2019-08-27",
+    "description": "A heartwarming and clever picture book from debut author-illustrator Mike Ciccotello, who is the father of fraternal Twins. Being a twin is great! Sometimes our friends can’t tell us apart. A boy and his twin do everything together—leapfrog and piggyback rides, dancing and disagreeing, and everything in between! Their relationship has its ups and downs, but in the end, it’s great knowing there’s someone in their world who is just like them. This charming picture book is a sweet and silly celebration of twinhood—whether you look alike or not!",
     "price": 8.9,
     "starRating": 4.8,
-    "imageUrl": "assets/images/hammer.png"
+    "imageUrl": "http://books.google.com/books/content?id=LS2iDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "productId": 8,
-    "productName": "Saw",
-    "productCode": "TBX-0022",
-    "releaseDate": "May 15, 2021",
-    "description": "15-inch steel blade hand saw",
+    "productName": "Playtime for Twins",
+    "productCode": "6uj2ygAACAAJ",
+    "releaseDate": "2012-06-12",
+    "description": "A charming set of twins make the most of their imaginations in this board book companion to Bathtime for Twins. Hooray! We love to play! What will we do today? The twins are ready for some fun! Laugh along as these cheerful siblings make some noise, read about rocket ships, seesaw, and more before they wave good-bye to the sun as it sets and head for home. Pitch-perfect rhyming text from author Ellen Weiss and soft, engaging images from bestselling illustrator Sam Williams showcase the twins’ appealing personalities and capture all the joy of playtime!",
     "price": 11.55,
     "starRating": 3.7,
-    "imageUrl": "assets/images/saw.png"
+    "imageUrl": "http://books.google.com/books/content?id=6uj2ygAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "productId": 10,
-    "productName": "Video Game Controller",
-    "productCode": "GMG-0042",
-    "releaseDate": "October 15, 2020",
-    "description": "Standard two-button video game controller",
-    "price": 35.95,
+    "productName": "Bathtime for Twins",
+    "productCode": "Jk7IygAACAAJ",
+    "releaseDate": "2012-06-12",
+    "description": "Bathtime fun, times two! An adorable duo heads for the tub in this board book companion to Playtime for Twins. Splashy, sploshy, splish. We are little fish! A delightful set of twins show what a blast bathtime can be in this playful board book. Expect grins and giggles from little ones as these funny siblings splash, have tea, play peek-a-boo, and more, until it’s time to say “good night.” Bubbly, rhyming text from Ellen Weiss and soft, charming illustrations by Sam Williams bring this playful story to life.",
+    "price": 15.95,
     "starRating": 4.6,
-    "imageUrl": "assets/images/xbox-controller.png"
+    "imageUrl": "http://books.google.com/books/content?id=Jk7IygAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   }
 ]
