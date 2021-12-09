@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
-This application was developed using Angular Technology for the front end as a training excercise. The concecpts learned include:
+This application was developed using Angular Technology for the front end as a training excercise. The concepts learned include:
           Built-in Directives (i.e. 'ngIf', 'ngFor')
           Two-way data binding
           Angular Dependency Injector
